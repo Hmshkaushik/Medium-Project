@@ -1,1 +1,1 @@
-# Medium-Project
+# Heart-Disease detection
